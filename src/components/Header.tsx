@@ -2,7 +2,7 @@ import React from "react";
 
 const Header: React.FC = () => (
   <header>
-    <h1>Welcome to My Portfolio</h1>
+    <h1>Welcome</h1>
     <p>
       Hello! My name is Adithya Valsaraj, and I have been passionately working
       as a Senior UI/UX Developer for over eight years. Throughout my career, I
