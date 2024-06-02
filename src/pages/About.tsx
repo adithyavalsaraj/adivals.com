@@ -6,9 +6,10 @@ const About: React.FC = () => {
       <h2>About Me</h2>
       <div className="section">
         <p>
-          Hello! My name is Adithya Valsaraj, and I'm delighted to welcome you
-          to my portfolio. I am a{" "}
-          <span className="highlight">Senior UI/UX Developer</span> with over
+          Hello! My name is{" "}
+          <span className="text-blue-600 font-bold">Adithya Valsaraj</span>, and
+          I'm delighted to welcome you to my portfolio. I am a
+          <span className="highlight"> Senior UI/UX Developer</span> with over
           eight years of experience in the tech industry. My career has been a
           dynamic journey filled with innovative projects, continuous learning,
           and a dedication to creating exceptional user experiences.
@@ -60,10 +61,10 @@ const About: React.FC = () => {
           </div>
           <div>
             <p>
-              <span className="highlight">Music</span>: Music is a significant
-              part of my life. Whether I’m listening to my favorite tunes or
-              playing an instrument, it serves as a great source of inspiration
-              and relaxation.
+              <span className="highlight">Listening to Music</span>: Music is a
+              significant part of my life. Whether I’m listening to my favorite
+              tunes or playing an instrument, it serves as a great source of
+              inspiration and relaxation.
             </p>
           </div>
           <div>
